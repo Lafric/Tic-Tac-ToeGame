@@ -1,3 +1,32 @@
+<h1>INSTALLATION</h1>
+To install and run this project follow these steps:
+
+Clone this repository
+
+Install Angular cli Dependency
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/
+
+<h1>Example</h1>
+#the Game page 
+<img src = "src/assets/page1.png">
+<p> the player X is the winner </p>
+<img src = "src/assets/page2.png">
+
+<h1>the code </h1>
+
+<h2>-Make Movement</h2>
+<img src = "src/assets/cod2.png">
+
+<h2>-Determine the winner</h2>
+<img src = "src/assets/cod3.png">
+
+
+
+
+
+
+
 # TicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
