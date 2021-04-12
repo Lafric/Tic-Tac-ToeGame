@@ -1,3 +1,5 @@
+<h1>About</h1>
+T his is a Tic-Tac-Toe Game Version generated with the powerful framework Angular. 
 <h1>INSTALLATION</h1>
 To install and run this project follow these steps:
 
